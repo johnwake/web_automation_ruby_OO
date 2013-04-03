@@ -1,0 +1,2 @@
+default: -f pretty -r features
+complete: -f pretty -t @complete
